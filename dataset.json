@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Mission, Texas. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Mission, Texas, US",
+  "export_job_id": "95dc8888-fc5b-457d-bed1-9f1519511fd8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 697279,
+  "location_name": "Mission",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-mission-texas-us-sample-697279",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/697279/beamstation_697279_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.64,
+  "sample_records": 16,
+  "sample_sha256": "abea9cb67765a2504434b73a938bc38280b8e6124694fa03b5b59734c0dc2347",
+  "sample_size_bytes": 59559,
+  "total_records": 166,
+  "updated_at": "2026-04-07T12:37:50.590321+00:00"
+}
