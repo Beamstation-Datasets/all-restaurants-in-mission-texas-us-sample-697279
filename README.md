@@ -9,9 +9,9 @@
 | Dataset ID | `697279` |
 | Location | Mission |
 | Category | Restaurants |
-| Full dataset size | 166 records |
-| Free sample size | 16 records (9.64%) |
-| Last export | 2026-04-07T12:37:50.590321+00:00 |
+| Full dataset size | 165 records |
+| Free sample size | 16 records (9.7%) |
+| Last export | 2026-04-14T12:28:51.892748+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mission-texas-us-sample-697279/releases/download/sample-latest/beamstation_697279_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
