@@ -1,12 +1,12 @@
 {
-  "export_job_id": "52f79a5b-3a59-4cac-949f-05b1dbd1812d",
+  "export_job_id": "fea29df3-e8b9-4215-b033-c611e4b0a4cd",
   "id_short": 697279,
-  "published_at": "2026-04-21T19:42:43Z",
+  "published_at": "2026-04-28T19:24:40Z",
   "repo_name": "all-restaurants-in-mission-texas-us-sample-697279",
   "sample_asset_name": "beamstation_697279_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/697279/beamstation_697279_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 15,
-  "sample_sha256": "522829f49840e712e9de4baac56a74aee6d246f80f89ca9d93cd0a37f7b96d77",
-  "sample_size_bytes": 41110,
-  "total_records": 152
+  "sample_records": 18,
+  "sample_sha256": "f08ee0dc310d0a75de8e14f4b66a7bbaca7bbf9afa4a49f00200e4d15a2a431f",
+  "sample_size_bytes": 77356,
+  "total_records": 181
 }
